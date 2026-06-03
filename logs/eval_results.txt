@@ -1,0 +1,4 @@
+评测结果: Acc_main_d=0.6833, Acc_main_s=0.7222, F1_other_d=0.2356, F1_other_s=0.5385, M_total=0.6396
+  >>> 已保存最优模型 (M_total=0.6396)
+评测结果: Acc_main_d=0.8167, Acc_main_s=0.8556, F1_other_d=0.2341, F1_other_s=0.6292, M_total=0.7552
+  >>> 已保存最优模型 (M_total=0.7552)

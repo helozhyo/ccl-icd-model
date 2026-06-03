@@ -6,28 +6,11 @@ __pycache__/
 .venv/
 venv/
 
-# Data files (large / potentially private)
-*.xlsx
-*.csv
-*.npz
-*.json
-
-# Model checkpoints
+# Model checkpoints (too large)
 *.pt
 *.bin
 *.safetensors
-
-# Submission files
-sub_v*.txt
-submission*.txt
-A榜*.txt
-A榜*.xlsx
-submission - 副本.txt
-
-# Logs
-*.log
-*.txt
-!requirements.txt
+*.npz
 
 # IDE
 .vscode/

@@ -1,0 +1,8 @@
+{
+  "样本数": 400,
+  "Acc_main": 1.0,
+  "F1_other_diag": 1.0,
+  "Acc_main_surg": 1.0,
+  "F1_other_surg": 1.0,
+  "M_total": 1.0
+}

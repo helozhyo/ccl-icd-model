@@ -1,0 +1,32 @@
+/root/miniconda3/lib/python3.10/site-packages/torch/_utils.py:831: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+Loading model...
+Searching thresholds...
+td=0.10 ts=0.10 M=0.7838 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.6380
+td=0.10 ts=0.15 M=0.7859 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.6586
+td=0.10 ts=0.20 M=0.7912 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7111
+td=0.10 ts=0.25 M=0.7929 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7283
+td=0.10 ts=0.30 M=0.7949 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7485
+td=0.10 ts=0.35 M=0.7957 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7561
+td=0.10 ts=0.45 M=0.7957 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7566
+td=0.10 ts=0.50 M=0.7957 acc_md=0.8444 acc_ms=0.8833 f1_d=0.2893 f1_s=0.7568
+td=0.15 ts=0.25 M=0.7963 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3231 f1_s=0.7283
+td=0.15 ts=0.30 M=0.7983 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3231 f1_s=0.7485
+td=0.15 ts=0.35 M=0.7990 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3231 f1_s=0.7561
+td=0.15 ts=0.45 M=0.7991 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3231 f1_s=0.7566
+td=0.15 ts=0.50 M=0.7991 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3231 f1_s=0.7568
+td=0.20 ts=0.30 M=0.8007 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3470 f1_s=0.7485
+td=0.20 ts=0.35 M=0.8014 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3470 f1_s=0.7561
+td=0.20 ts=0.45 M=0.8015 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3470 f1_s=0.7566
+td=0.20 ts=0.50 M=0.8015 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3470 f1_s=0.7568
+td=0.25 ts=0.30 M=0.8027 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3673 f1_s=0.7485
+td=0.25 ts=0.35 M=0.8035 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3673 f1_s=0.7561
+td=0.25 ts=0.45 M=0.8035 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3673 f1_s=0.7566
+td=0.25 ts=0.50 M=0.8035 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3673 f1_s=0.7568
+td=0.30 ts=0.35 M=0.8040 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3725 f1_s=0.7561
+td=0.30 ts=0.45 M=0.8040 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3725 f1_s=0.7566
+td=0.30 ts=0.50 M=0.8040 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3725 f1_s=0.7568
+td=0.35 ts=0.35 M=0.8042 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3750 f1_s=0.7561
+td=0.35 ts=0.45 M=0.8043 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3750 f1_s=0.7566
+td=0.35 ts=0.50 M=0.8043 acc_md=0.8444 acc_ms=0.8833 f1_d=0.3750 f1_s=0.7568
+FINAL BEST: (0.35, 0.5, 0.8042867867867868, 0.8444444444444444, 0.8833333333333333, 0.375, 0.7567567567567568)
