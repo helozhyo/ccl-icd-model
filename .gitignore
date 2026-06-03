@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Data files (large / potentially private)
+*.xlsx
+*.csv
+*.npz
+*.json
+
+# Model checkpoints
+*.pt
+*.bin
+*.safetensors
+
+# Submission files
+sub_v*.txt
+submission*.txt
+A榜*.txt
+A榜*.xlsx
+submission - 副本.txt
+
+# Logs
+*.log
+*.txt
+!requirements.txt
+
+# IDE
+.vscode/
+.idea/
